@@ -13,7 +13,7 @@ The dataset includes the following:
 citation: "The Instacart Online Grocery Shopping Dataset2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017
 
 ## Tools
-The following pythin libraries were used:
+The following python libraries were used:
 - pandas - for data analysis
 - seaborn - for visualization
 
